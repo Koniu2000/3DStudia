@@ -1,0 +1,21 @@
+# ninja log v5
+1	115	7226180657326305	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	ec4e0d8c5eb0770f
+1	115	7226180657326305	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-mkdir	ec4e0d8c5eb0770f
+115	9146	7226180747665088	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	90ea02d9d6d3d972
+115	9146	7226180747665088	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-download	90ea02d9d6d3d972
+9146	12323	0	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	72a0e671482a27db
+9146	12323	0	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-update	72a0e671482a27db
+12323	12392	7226180780137958	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	312c665ca13a3161
+12323	12392	7226180780137958	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-patch	312c665ca13a3161
+12392	12462	7226180780826131	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2a356ab10d64d1a5
+12392	12462	7226180780826131	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-configure	2a356ab10d64d1a5
+12463	12532	7226180781524250	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	9338476460720135
+12463	12532	7226180781524250	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-build	9338476460720135
+12532	12600	7226180782212413	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	3db33fc2299d670b
+12532	12600	7226180782212413	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-install	3db33fc2299d670b
+12601	12710	7226180783299514	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	980ec828ccaf6f8c
+12601	12710	7226180783299514	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-test	980ec828ccaf6f8c
+12710	12819	7226180784402169	CMakeFiles/spdlog-populate-complete	289c5fdcb7dc1f40
+12710	12819	7226180784402169	spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	289c5fdcb7dc1f40
+12710	12819	7226180784402169	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate-complete	289c5fdcb7dc1f40
+12710	12819	7226180784402169	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/spdlog-populate-prefix/src/spdlog-populate-stamp/spdlog-populate-done	289c5fdcb7dc1f40

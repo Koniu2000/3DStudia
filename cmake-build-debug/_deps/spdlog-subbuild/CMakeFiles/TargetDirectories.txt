@@ -1,0 +1,3 @@
+C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-subbuild/CMakeFiles/rebuild_cache.dir

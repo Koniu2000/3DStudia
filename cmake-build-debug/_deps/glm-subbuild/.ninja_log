@@ -1,0 +1,21 @@
+# ninja log v5
+0	69	7226180495454779	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5f44871ea58934ec
+0	69	7226180495454779	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	5f44871ea58934ec
+70	12221	7226180616969175	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	78d5277b9e195740
+70	12221	7226180616969175	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	78d5277b9e195740
+12222	15406	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7107e85ef4185398
+12222	15406	0	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	7107e85ef4185398
+15407	15489	7226180649655134	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a97425e5acfc9edd
+15407	15489	7226180649655134	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	a97425e5acfc9edd
+15489	15555	7226180650324823	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	8fae8a7fd1380de7
+15489	15555	7226180650324823	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	8fae8a7fd1380de7
+15555	15623	7226180651003009	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	4b703bb329ac2efe
+15555	15623	7226180651003009	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	4b703bb329ac2efe
+15624	15693	7226180651711127	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	f3e641410bacb092
+15624	15693	7226180651711127	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	f3e641410bacb092
+15693	15777	7226180652538908	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	92901e0421cfc132
+15693	15777	7226180652538908	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	92901e0421cfc132
+15777	15875	7226180653516286	CMakeFiles/glm-populate-complete	dccbbd0d22f1b5e7
+15777	15875	7226180653516286	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	dccbbd0d22f1b5e7
+15777	15875	7226180653516286	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	dccbbd0d22f1b5e7
+15777	15875	7226180653516286	C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	dccbbd0d22f1b5e7
