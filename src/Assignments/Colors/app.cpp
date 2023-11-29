@@ -28,13 +28,13 @@ void SimpleShapeApplication::init() {
             0.5f, 0.0f, 0.0f, 1.0f, 0.0f, 0.0f,
             0.0f, 0.5f, 0.0f, 1.0f, 0.0f, 0.0f,
 
-            -0.5f, 0.0f, 0.0f, 1.0f, 1.0f, 1.0f,
-            -0.5f, -0.5f, 0.0f, 1.0f, 1.0f, 1.0f,
-            0.5f, -0.5f, 0.0f, 1.0f, 1.0f, 1.0f,
+            -0.5f, 0.0f, 0.0f, 0.0f, 1.0f, 0.0f,
+            -0.5f, -0.5f, 0.0f, 0.0f, 1.0f, 0.0f,
+            0.5f, -0.5f, 0.0f, 0.0f, 1.0f, 0.0f,
 
-            -0.5f, 0.0f, 0.0f, 1.0f, 1.0f, 1.0f,
-            0.5f, -0.5f, 0.0f, 1.0f, 1.0f, 1.0f,
-            0.5f, 0.0f, 0.0f, 1.0f, 1.0f, 1.0f};
+            -0.5f, 0.0f, 0.0f, 0.0f, 1.0f, 0.0f,
+            0.5f, -0.5f, 0.0f, 0.0f, 1.0f, 0.0f,
+            0.5f, 0.0f, 0.0f, 0.0f, 1.0f, 0.0f};
 
     // Generating the buffer and loading the vertex data into it.
     GLuint v_buffer_handle;
