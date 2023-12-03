@@ -37,6 +37,6 @@ Warning: directory C:/Users/kamil/3D/3d/src/Assignments/Phong does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/PBR does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/MultipleLights does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/NormalMaps does not exists.
--- Configuring done (47.2s)
--- Generating done (0.1s)
+-- Configuring done (41.4s)
+-- Generating done (0.2s)
 -- Build files have been written to: C:/Users/kamil/3D/3d/cmake-build-debug

@@ -10,7 +10,6 @@ layout(std140, binding = 0) uniform Modifier {
 };
 
 void main() {
-    vec3 UniformsColor = Color * (strength * color);
-    vFragColor = vec4(UniformsColor, 1.0);
+    vec3 NewColor = Color * strength * color;
+    vFragColor = vec4(NewColor, 1.0);
 }
-

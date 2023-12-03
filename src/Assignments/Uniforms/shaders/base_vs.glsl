@@ -5,14 +5,14 @@ layout(location=1) in  vec3 a_vertex_color;
 
 out vec3 Color;
 
-layout(std140, binding=1) uniform Transformations {
-    vec2 scale;
-    vec2 translation;
+layout(std140, binding = 1) uniform Transformations {
     mat2 rotation;
+    vec2 translation;
+    vec2 scale;
 };
 
 void main() {
-    Color = a_vertex_color;
-    gl_Position.xy = rotation*(scale*a_vertex_position.xy)+translation;
+    gl_Position.xy = rotation * ( scale * a_vertex_position.xy) + translation;
     gl_Position.zw = a_vertex_position.zw;
+    Color = a_vertex_color;
 }
