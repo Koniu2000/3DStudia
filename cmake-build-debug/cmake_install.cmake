@@ -97,6 +97,26 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Uniforms/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/PVM/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Pyramid/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Resizing/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

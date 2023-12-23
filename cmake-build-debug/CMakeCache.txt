@@ -393,6 +393,15 @@ GLFW_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-src
 //Force use of high-performance GPU on hybrid systems
 GLFW_USE_HYBRID_HPG:BOOL=OFF
 
+//Generate the install target
+GLM_BUILD_INSTALL:BOOL=OFF
+
+//Build dynamic/static library
+GLM_BUILD_LIBRARY:BOOL=ON
+
+//Build the test programs
+GLM_BUILD_TESTS:BOOL=OFF
+
 //Value Computed by CMake
 Graphics3DCode_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug
 
@@ -434,6 +443,33 @@ OPENGL_gl_LIBRARY:STRING=opengl32
 
 //GLU library for win32
 OPENGL_glu_LIBRARY:STRING=glu32
+
+//Value Computed by CMake
+PVM_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/PVM
+
+//Value Computed by CMake
+PVM_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+PVM_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/src/Assignments/PVM
+
+//Value Computed by CMake
+Pyramid_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Pyramid
+
+//Value Computed by CMake
+Pyramid_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Pyramid_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/src/Assignments/Pyramid
+
+//Value Computed by CMake
+Resizing_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Resizing
+
+//Value Computed by CMake
+Resizing_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Resizing_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/src/Assignments/Resizing
 
 //Build all artifacts
 SPDLOG_BUILD_ALL:BOOL=OFF
@@ -543,6 +579,15 @@ XeEngine_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 XeEngine_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/src/XeEngine
+
+//Value Computed by CMake
+Zooom_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom
+
+//Value Computed by CMake
+Zooom_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Zooom_SOURCE_DIR:STATIC=C:/Users/kamil/3D/3d/src/Assignments/Zoom
 
 //Value Computed by CMake
 application_BINARY_DIR:STATIC=C:/Users/kamil/3D/3d/cmake-build-debug/src/Application
@@ -708,7 +753,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=15
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=19
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
