@@ -131,3 +131,10 @@ C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/CMakeFiles/list_inst
 C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/CMakeFiles/install.dir
 C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/CMakeFiles/install/local.dir
 C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/CMakeFiles/install/strip.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/CameraMovement.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/edit_cache.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/rebuild_cache.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/list_install_components.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/install.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/install/local.dir
+C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/CMakeFiles/install/strip.dir

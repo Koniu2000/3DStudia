@@ -3,7 +3,6 @@
 -- GLM: Version 0.9.9.9
 -- Build spdlog: 1.12.0
 -- Build type: Debug
-Warning: directory C:/Users/kamil/3D/3d/src/Assignments/CameraMovement does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/Meshes does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/Materials does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/MeshesMaterials does not exists.
@@ -13,6 +12,6 @@ Warning: directory C:/Users/kamil/3D/3d/src/Assignments/Phong does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/PBR does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/MultipleLights does not exists.
 Warning: directory C:/Users/kamil/3D/3d/src/Assignments/NormalMaps does not exists.
--- Configuring done (13.1s)
+-- Configuring done (11.3s)
 -- Generating done (0.1s)
 -- Build files have been written to: C:/Users/kamil/3D/3d/cmake-build-debug
