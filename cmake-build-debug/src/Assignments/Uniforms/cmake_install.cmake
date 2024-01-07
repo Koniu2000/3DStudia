@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kamil/3D/3d/src/Assignments/Uniforms
+# Install script for directory: C:/Users/kamil/3DStudia/src/Assignments/Uniforms
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

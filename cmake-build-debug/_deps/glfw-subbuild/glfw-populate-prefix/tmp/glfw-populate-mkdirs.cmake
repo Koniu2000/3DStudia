@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-src"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-build"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/tmp"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/tmp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

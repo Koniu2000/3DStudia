@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kamil/3D/3d/src/Assignments/Indices
+# Install script for directory: C:/Users/kamil/3DStudia/src/Assignments/Indices
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

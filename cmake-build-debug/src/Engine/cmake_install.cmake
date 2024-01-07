@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kamil/3D/3d/src/Engine
+# Install script for directory: C:/Users/kamil/3DStudia/src/Engine
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -69,7 +69,6 @@ FetchContent_Declare(
 )
 FetchContent_MakeAvailable(spdlog)
 
-
 if (__VS_CODE__)
 
     # GLSLang

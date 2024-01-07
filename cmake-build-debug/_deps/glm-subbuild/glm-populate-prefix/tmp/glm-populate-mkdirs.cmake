@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-src"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-build"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/tmp"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src"
-  "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-build"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/tmp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src"
+  "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

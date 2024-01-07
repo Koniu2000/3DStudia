@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kamil/3D/3d/src/ObjectReader
+# Install script for directory: C:/Users/kamil/3DStudia/src/ObjectReader
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

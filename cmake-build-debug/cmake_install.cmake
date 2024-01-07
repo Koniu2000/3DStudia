@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kamil/3D/3d
+# Install script for directory: C:/Users/kamil/3DStudia
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,87 +39,97 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glfw-build/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/_deps/glm-build/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/_deps/spdlog-build/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/_deps/spdlog-build/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Application/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Application/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/ObjectReader/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/ObjectReader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/XeEngine/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/XeEngine/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Engine/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Engine/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Triangle/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Triangle/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/House/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/House/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Colors/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Colors/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Indices/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Indices/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Uniforms/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Uniforms/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/PVM/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/PVM/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Pyramid/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Pyramid/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Resizing/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Resizing/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/Zoom/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Zoom/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/kamil/3D/3d/cmake-build-debug/src/Assignments/CameraMovement/cmake_install.cmake")
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/CameraMovement/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/MeshesMaterials/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Textures/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -130,5 +140,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/kamil/3D/3d/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/kamil/3DStudia/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
