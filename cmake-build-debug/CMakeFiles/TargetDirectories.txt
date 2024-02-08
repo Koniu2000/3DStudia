@@ -152,3 +152,10 @@ C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Textures/CMakeFiles/li
 C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Textures/CMakeFiles/install.dir
 C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Textures/CMakeFiles/install/local.dir
 C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Textures/CMakeFiles/install/strip.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/Phong.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/edit_cache.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/rebuild_cache.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/list_install_components.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/install.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/install/local.dir
+C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong/CMakeFiles/install/strip.dir

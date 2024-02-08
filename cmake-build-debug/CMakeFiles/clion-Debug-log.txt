@@ -1,15 +1,15 @@
 "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\kamil\3DStudia -B C:\Users\kamil\3DStudia\cmake-build-debug
 -- Including Win32 support
--- GLM: Version 0.9.9.9
--- Build spdlog: 1.12.0
+-- GLM: Version 1.0.0
+GLM: GCC - GNU compiler
+-- Build spdlog: 1.13.0
 -- Build type: Debug
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/Meshes does not exists.
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/Materials does not exists.
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/SceneGraph does not exists.
-Warning: directory C:/Users/kamil/3DStudia/src/Assignments/Phong does not exists.
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/PBR does not exists.
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/MultipleLights does not exists.
 Warning: directory C:/Users/kamil/3DStudia/src/Assignments/NormalMaps does not exists.
--- Configuring done (13.1s)
--- Generating done (0.3s)
+-- Configuring done (22.3s)
+-- Generating done (0.4s)
 -- Build files have been written to: C:/Users/kamil/3DStudia/cmake-build-debug

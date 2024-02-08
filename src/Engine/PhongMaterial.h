@@ -4,49 +4,43 @@
 
 #pragma once
 
-#include "Material.h"
+#include <glad/gl.h>
+#include <glm/glm.hpp>
+#include <memory>
 
-#include <string>
+#include "Material.h"
+#include "Application/utils.h"
 
 namespace xe {
+
     class PhongMaterial : public Material {
     public:
+
+        PhongMaterial(const glm::vec4 color, const glm::vec4 amb, const glm::vec4 spec, float specShi) : Kd(color), Ka(amb), Ks(spec), Ns(specShi) {}
+
+        PhongMaterial(GLuint texture, GLuint texture_unit) : Kd((glm::vec4){1.0, 1.0, 1.0, 1.0}){
+            set_texture(texture);
+        }
+
+        void bind();
 
         static void init();
 
         static GLuint program() { return shader_; }
 
-        PhongMaterial(const glm::vec4 color, GLuint texture, GLuint texture_unit) : Kd_(color), map_Kd_(texture),
-                                                                                    map_Kd_unit_(texture_unit) {}
+        void set_texture(GLuint texture) { map_Kd = texture; }
 
-        PhongMaterial(const glm::vec4 color, GLuint texture) : PhongMaterial(color, texture, 0) {}
-
-        PhongMaterial(const glm::vec4 color) : PhongMaterial(color, 0) {}
-
-        void set_texture(GLuint tex) { map_Kd_ = tex; }
-
-        void bind() override;
-
-        void unbind() override;
-
+        glm::vec4 Kd;
+        glm::vec4 Ka;
+        glm::vec4 Ks;
+        float Ns;
+        GLuint map_Kd;
+        const GLuint map_Kd_unit = 0;
 
     private:
-
         static GLuint shader_;
-        static GLuint material_uniform_buffer_;
+        static GLuint color_uniform_buffer_;
         static GLint uniform_map_Kd_location_;
-
-        glm::vec4 Kd_;
-        GLuint map_Kd_;
-        GLboolean use_map_Kd_;
-        GLuint map_Kd_unit_;
     };
 
-
-    GLuint create_texture(const std::string &name);
-
 }
-
-
-
-

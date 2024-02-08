@@ -229,7 +229,7 @@ build cmake_object_order_depends_target_glfw: phony || _deps/glfw-build/src/CMak
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\context.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -237,7 +237,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj: C_COMPILER__glfw_u
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\init.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -245,7 +245,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/init.c.obj: C_COMPILER__glfw_unsc
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/input.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\input.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -253,7 +253,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/input.c.obj: C_COMPILER__glfw_uns
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\monitor.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -261,7 +261,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj: C_COMPILER__glfw_u
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/platform.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\platform.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -269,7 +269,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj: C_COMPILER__glfw_
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/vulkan.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\vulkan.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -277,7 +277,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj: C_COMPILER__glfw_un
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\window.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -285,7 +285,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj: C_COMPILER__glfw_un
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/egl_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\egl_context.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -293,7 +293,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj: C_COMPILER__gl
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/osmesa_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\osmesa_context.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -301,7 +301,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj: C_COMPILER_
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/null_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\null_init.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -309,7 +309,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj: C_COMPILER__glfw
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/null_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\null_monitor.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -317,7 +317,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj: C_COMPILER__g
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/null_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\null_window.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -325,7 +325,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj: C_COMPILER__gl
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/null_joystick.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\null_joystick.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -333,7 +333,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj: C_COMPILER__
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_module.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_module.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -341,7 +341,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj: C_COMPILER__g
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_time.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_time.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -349,7 +349,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj: C_COMPILER__glf
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_thread.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_thread.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -357,7 +357,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj: C_COMPILER__g
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_init.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_init.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -365,7 +365,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj: C_COMPILER__glf
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_joystick.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_joystick.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -373,7 +373,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj: C_COMPILER_
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_monitor.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_monitor.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -381,7 +381,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj: C_COMPILER__
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/win32_window.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\win32_window.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -389,7 +389,7 @@ build _deps/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj: C_COMPILER__g
 build _deps/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj: C_COMPILER__glfw_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src/wgl_context.c || cmake_object_order_depends_target_glfw
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DUNICODE -DWINVER=0x0501 -DXE_DEBUG -D_GLFW_WIN32 -D_UNICODE
   DEP_FILE = _deps\glfw-build\src\CMakeFiles\glfw.dir\wgl_context.c.obj.d
-  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall -Wdeclaration-after-statement
+  FLAGS = -g -std=c99 -fdiagnostics-color=always -Wall
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-build/src
   OBJECT_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
   OBJECT_FILE_DIR = _deps\glfw-build\src\CMakeFiles\glfw.dir
@@ -576,7 +576,7 @@ build cmake_object_order_depends_target_glm: phony || _deps/glm-build/glm/CMakeF
 build _deps/glm-build/glm/CMakeFiles/glm.dir/detail/glm.cpp.obj: CXX_COMPILER__glm_unscanned_Debug C$:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src/glm/detail/glm.cpp || cmake_object_order_depends_target_glm
   DEFINES = -DMAJOR=4 -DMINOR=6 -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DXE_DEBUG
   DEP_FILE = _deps\glm-build\glm\CMakeFiles\glm.dir\detail\glm.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  FLAGS = -g -std=c++17 -fdiagnostics-color=always -Werror -O2
   INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src
   OBJECT_DIR = _deps\glm-build\glm\CMakeFiles\glm.dir
   OBJECT_FILE_DIR = _deps\glm-build\glm\CMakeFiles\glm.dir\detail
@@ -1049,14 +1049,6 @@ build src/ObjectReader/install/strip: phony src/ObjectReader/CMakeFiles/install/
 
 build cmake_object_order_depends_target_xe-engine: phony || cmake_object_order_depends_target_glad cmake_object_order_depends_target_glfw cmake_object_order_depends_target_glm cmake_object_order_depends_target_objreader cmake_object_order_depends_target_spdlog
 
-build src/XeEngine/CMakeFiles/xe-engine.dir/ColorMaterial.cpp.obj: CXX_COMPILER__xe-engine_unscanned_Debug C$:/Users/kamil/3DStudia/src/XeEngine/ColorMaterial.cpp || cmake_object_order_depends_target_xe-engine
-  DEFINES = -DMAJOR=4 -DMINOR=6 -DPROJECT_DIR=\"C:/Users/kamil/3DStudia/src/XeEngine\" -DPROJECT_NAME=\"XeEngine\" -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DSPDLOG_COMPILED_LIB -DXE_DEBUG
-  DEP_FILE = src\XeEngine\CMakeFiles\xe-engine.dir\ColorMaterial.cpp.obj.d
-  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/spdlog-src/include
-  OBJECT_DIR = src\XeEngine\CMakeFiles\xe-engine.dir
-  OBJECT_FILE_DIR = src\XeEngine\CMakeFiles\xe-engine.dir
-
 build src/XeEngine/CMakeFiles/xe-engine.dir/Scene.cpp.obj: CXX_COMPILER__xe-engine_unscanned_Debug C$:/Users/kamil/3DStudia/src/XeEngine/Scene.cpp || cmake_object_order_depends_target_xe-engine
   DEFINES = -DMAJOR=4 -DMINOR=6 -DPROJECT_DIR=\"C:/Users/kamil/3DStudia/src/XeEngine\" -DPROJECT_NAME=\"XeEngine\" -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DSPDLOG_COMPILED_LIB -DXE_DEBUG
   DEP_FILE = src\XeEngine\CMakeFiles\xe-engine.dir\Scene.cpp.obj.d
@@ -1121,7 +1113,7 @@ build src/XeEngine/CMakeFiles/xe-engine.dir/utils.cpp.obj: CXX_COMPILER__xe-engi
 #############################################
 # Link the static library src\XeEngine\libxe-engine.a
 
-build src/XeEngine/libxe-engine.a: CXX_STATIC_LIBRARY_LINKER__xe-engine_Debug CMakeFiles/glad.dir/src/3rdParty/glad/glad_4_6/glad/src/gl.c.obj src/XeEngine/CMakeFiles/xe-engine.dir/ColorMaterial.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/Scene.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/Mesh.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/mesh_loader.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/Node.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/PhongMaterial.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/stb_image.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/utils.cpp.obj || _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a _deps/spdlog-build/libspdlogd.a glad src/ObjectReader/libobjreader.a
+build src/XeEngine/libxe-engine.a: CXX_STATIC_LIBRARY_LINKER__xe-engine_Debug CMakeFiles/glad.dir/src/3rdParty/glad/glad_4_6/glad/src/gl.c.obj src/XeEngine/CMakeFiles/xe-engine.dir/Scene.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/Mesh.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/mesh_loader.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/Node.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/PhongMaterial.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/stb_image.cpp.obj src/XeEngine/CMakeFiles/xe-engine.dir/utils.cpp.obj || _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a _deps/spdlog-build/libspdlogd.a glad src/ObjectReader/libobjreader.a
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = src\XeEngine\CMakeFiles\xe-engine.dir
   POST_BUILD = cd .
@@ -1248,6 +1240,14 @@ build src/Engine/CMakeFiles/engine.dir/utils.cpp.obj: CXX_COMPILER__engine_unsca
   OBJECT_DIR = src\Engine\CMakeFiles\engine.dir
   OBJECT_FILE_DIR = src\Engine\CMakeFiles\engine.dir
 
+build src/Engine/CMakeFiles/engine.dir/texture.cpp.obj: CXX_COMPILER__engine_unscanned_Debug C$:/Users/kamil/3DStudia/src/Engine/texture.cpp || cmake_object_order_depends_target_engine
+  DEFINES = -DMAJOR=4 -DMINOR=6 -DPROJECT_DIR=\"C:/Users/kamil/3DStudia/src/Engine\" -DPROJECT_NAME=\"Engine\" -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DSPDLOG_COMPILED_LIB -DXE_DEBUG
+  DEP_FILE = src\Engine\CMakeFiles\engine.dir\texture.cpp.obj.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/spdlog-src/include
+  OBJECT_DIR = src\Engine\CMakeFiles\engine.dir
+  OBJECT_FILE_DIR = src\Engine\CMakeFiles\engine.dir
+
 
 # =============================================================================
 # Link build statements for STATIC_LIBRARY target engine
@@ -1256,7 +1256,7 @@ build src/Engine/CMakeFiles/engine.dir/utils.cpp.obj: CXX_COMPILER__engine_unsca
 #############################################
 # Link the static library src\Engine\libengine.a
 
-build src/Engine/libengine.a: CXX_STATIC_LIBRARY_LINKER__engine_Debug CMakeFiles/glad.dir/src/3rdParty/glad/glad_4_6/glad/src/gl.c.obj src/Engine/CMakeFiles/engine.dir/Mesh.cpp.obj src/Engine/CMakeFiles/engine.dir/Material.cpp.obj src/Engine/CMakeFiles/engine.dir/mesh_loader.cpp.obj src/Engine/CMakeFiles/engine.dir/PhongMaterial.cpp.obj src/Engine/CMakeFiles/engine.dir/utils.cpp.obj || _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a _deps/spdlog-build/libspdlogd.a glad src/ObjectReader/libobjreader.a
+build src/Engine/libengine.a: CXX_STATIC_LIBRARY_LINKER__engine_Debug CMakeFiles/glad.dir/src/3rdParty/glad/glad_4_6/glad/src/gl.c.obj src/Engine/CMakeFiles/engine.dir/Mesh.cpp.obj src/Engine/CMakeFiles/engine.dir/Material.cpp.obj src/Engine/CMakeFiles/engine.dir/mesh_loader.cpp.obj src/Engine/CMakeFiles/engine.dir/PhongMaterial.cpp.obj src/Engine/CMakeFiles/engine.dir/utils.cpp.obj src/Engine/CMakeFiles/engine.dir/texture.cpp.obj || _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a _deps/spdlog-build/libspdlogd.a glad src/ObjectReader/libobjreader.a
   LANGUAGE_COMPILE_FLAGS = -g
   OBJECT_DIR = src\Engine\CMakeFiles\engine.dir
   POST_BUILD = cd .
@@ -2686,6 +2686,119 @@ build src/Assignments/Textures/CMakeFiles/install/strip.util: CUSTOM_COMMAND src
 build src/Assignments/Textures/install/strip: phony src/Assignments/Textures/CMakeFiles/install/strip.util
 
 # =============================================================================
+# Write statements declared in CMakeLists.txt:
+# C:/Users/kamil/3DStudia/CMakeLists.txt
+# =============================================================================
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Phong
+
+
+#############################################
+# Order-only phony target for Phong
+
+build cmake_object_order_depends_target_Phong: phony || cmake_object_order_depends_target_application cmake_object_order_depends_target_engine cmake_object_order_depends_target_glad cmake_object_order_depends_target_glfw cmake_object_order_depends_target_glm cmake_object_order_depends_target_objreader cmake_object_order_depends_target_spdlog
+
+build src/Assignments/Phong/CMakeFiles/Phong.dir/main.cpp.obj: CXX_COMPILER__Phong_unscanned_Debug C$:/Users/kamil/3DStudia/src/Assignments/Phong/main.cpp || cmake_object_order_depends_target_Phong
+  DEFINES = -DMAJOR=4 -DMINOR=6 -DPROJECT_DIR=\"C:/Users/kamil/3DStudia/src/Assignments/Phong\" -DPROJECT_NAME=\"Phong\" -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DSPDLOG_COMPILED_LIB -DXE_DEBUG
+  DEP_FILE = src\Assignments\Phong\CMakeFiles\Phong.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/spdlog-src/include
+  OBJECT_DIR = src\Assignments\Phong\CMakeFiles\Phong.dir
+  OBJECT_FILE_DIR = src\Assignments\Phong\CMakeFiles\Phong.dir
+
+build src/Assignments/Phong/CMakeFiles/Phong.dir/app.cpp.obj: CXX_COMPILER__Phong_unscanned_Debug C$:/Users/kamil/3DStudia/src/Assignments/Phong/app.cpp || cmake_object_order_depends_target_Phong
+  DEFINES = -DMAJOR=4 -DMINOR=6 -DPROJECT_DIR=\"C:/Users/kamil/3DStudia/src/Assignments/Phong\" -DPROJECT_NAME=\"Phong\" -DROOT_DIR=\"C:/Users/kamil/3DStudia\" -DSPDLOG_COMPILED_LIB -DXE_DEBUG
+  DEP_FILE = src\Assignments\Phong\CMakeFiles\Phong.dir\app.cpp.obj.d
+  FLAGS = -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/kamil/3DStudia/src/3rdParty -IC:/Users/kamil/3DStudia/src -IC:/Users/kamil/3DStudia/src/3rdParty/glad/glad_4_6/glad/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glfw-src/include -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/glm-src -IC:/Users/kamil/3DStudia/cmake-build-debug/_deps/spdlog-src/include
+  OBJECT_DIR = src\Assignments\Phong\CMakeFiles\Phong.dir
+  OBJECT_FILE_DIR = src\Assignments\Phong\CMakeFiles\Phong.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Phong
+
+
+#############################################
+# Link the executable src\Assignments\Phong\Phong.exe
+
+build src/Assignments/Phong/Phong.exe: CXX_EXECUTABLE_LINKER__Phong_Debug CMakeFiles/glad.dir/src/3rdParty/glad/glad_4_6/glad/src/gl.c.obj src/Assignments/Phong/CMakeFiles/Phong.dir/main.cpp.obj src/Assignments/Phong/CMakeFiles/Phong.dir/app.cpp.obj | _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a src/Application/libapplication.a src/Engine/libengine.a src/ObjectReader/libobjreader.a _deps/spdlog-build/libspdlogd.a _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a || _deps/glfw-build/src/libglfw3.a _deps/glm-build/glm/libglm.a _deps/spdlog-build/libspdlogd.a glad src/Application/libapplication.a src/Engine/libengine.a src/ObjectReader/libobjreader.a
+  FLAGS = -g
+  LINK_LIBRARIES = -lopengl32  _deps/glfw-build/src/libglfw3.a  _deps/glm-build/glm/libglm.a  src/Application/libapplication.a  src/Engine/libengine.a  src/ObjectReader/libobjreader.a  _deps/spdlog-build/libspdlogd.a  -lopengl32  _deps/glfw-build/src/libglfw3.a  _deps/glm-build/glm/libglm.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = src\Assignments\Phong\CMakeFiles\Phong.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = src\Assignments\Phong\Phong.exe
+  TARGET_IMPLIB = src\Assignments\Phong\libPhong.dll.a
+  TARGET_PDB = Phong.exe.dbg
+
+
+#############################################
+# Utility command for edit_cache
+
+build src/Assignments/Phong/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D C:\Users\kamil\3DStudia\cmake-build-debug\src\Assignments\Phong && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  DESC = No interactive CMake dialog available...
+  restat = 1
+
+build src/Assignments/Phong/edit_cache: phony src/Assignments/Phong/CMakeFiles/edit_cache.util
+
+
+#############################################
+# Utility command for rebuild_cache
+
+build src/Assignments/Phong/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
+  COMMAND = cmd.exe /C "cd /D C:\Users\kamil\3DStudia\cmake-build-debug\src\Assignments\Phong && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\kamil\3DStudia -BC:\Users\kamil\3DStudia\cmake-build-debug"
+  DESC = Running CMake to regenerate build system...
+  pool = console
+  restat = 1
+
+build src/Assignments/Phong/rebuild_cache: phony src/Assignments/Phong/CMakeFiles/rebuild_cache.util
+
+
+#############################################
+# Utility command for list_install_components
+
+build src/Assignments/Phong/list_install_components: phony
+
+
+#############################################
+# Utility command for install
+
+build src/Assignments/Phong/CMakeFiles/install.util: CUSTOM_COMMAND src/Assignments/Phong/all
+  COMMAND = cmd.exe /C "cd /D C:\Users\kamil\3DStudia\cmake-build-debug\src\Assignments\Phong && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  DESC = Install the project...
+  pool = console
+  restat = 1
+
+build src/Assignments/Phong/install: phony src/Assignments/Phong/CMakeFiles/install.util
+
+
+#############################################
+# Utility command for install/local
+
+build src/Assignments/Phong/CMakeFiles/install/local.util: CUSTOM_COMMAND src/Assignments/Phong/all
+  COMMAND = cmd.exe /C "cd /D C:\Users\kamil\3DStudia\cmake-build-debug\src\Assignments\Phong && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  DESC = Installing only the local directory...
+  pool = console
+  restat = 1
+
+build src/Assignments/Phong/install/local: phony src/Assignments/Phong/CMakeFiles/install/local.util
+
+
+#############################################
+# Utility command for install/strip
+
+build src/Assignments/Phong/CMakeFiles/install/strip.util: CUSTOM_COMMAND src/Assignments/Phong/all
+  COMMAND = cmd.exe /C "cd /D C:\Users\kamil\3DStudia\cmake-build-debug\src\Assignments\Phong && "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  DESC = Installing the project stripped...
+  pool = console
+  restat = 1
+
+build src/Assignments/Phong/install/strip: phony src/Assignments/Phong/CMakeFiles/install/strip.util
+
+# =============================================================================
 # Target aliases.
 
 build CameraMovement: phony src/Assignments/CameraMovement/CameraMovement.exe
@@ -2711,6 +2824,10 @@ build MeshMate.exe: phony src/Assignments/MeshesMaterials/MeshMate.exe
 build PVM: phony src/Assignments/PVM/PVM.exe
 
 build PVM.exe: phony src/Assignments/PVM/PVM.exe
+
+build Phong: phony src/Assignments/Phong/Phong.exe
+
+build Phong.exe: phony src/Assignments/Phong/Phong.exe
 
 build Pyramid: phony src/Assignments/Pyramid/Pyramid.exe
 
@@ -2776,7 +2893,7 @@ build xe-engine: phony src/XeEngine/libxe-engine.a
 #############################################
 # Folder: C:/Users/kamil/3DStudia/cmake-build-debug
 
-build all: phony glad _deps/glfw-build/all _deps/glm-build/all _deps/spdlog-build/all src/Application/all src/ObjectReader/all src/XeEngine/all src/Engine/all src/Assignments/Triangle/all src/Assignments/House/all src/Assignments/Colors/all src/Assignments/Indices/all src/Assignments/Uniforms/all src/Assignments/PVM/all src/Assignments/Pyramid/all src/Assignments/Resizing/all src/Assignments/Zoom/all src/Assignments/CameraMovement/all src/Assignments/MeshesMaterials/all src/Assignments/Textures/all
+build all: phony glad _deps/glfw-build/all _deps/glm-build/all _deps/spdlog-build/all src/Application/all src/ObjectReader/all src/XeEngine/all src/Engine/all src/Assignments/Triangle/all src/Assignments/House/all src/Assignments/Colors/all src/Assignments/Indices/all src/Assignments/Uniforms/all src/Assignments/PVM/all src/Assignments/Pyramid/all src/Assignments/Resizing/all src/Assignments/Zoom/all src/Assignments/CameraMovement/all src/Assignments/MeshesMaterials/all src/Assignments/Textures/all src/Assignments/Phong/all
 
 # =============================================================================
 
@@ -2865,6 +2982,13 @@ build src/Assignments/PVM/all: phony src/Assignments/PVM/PVM.exe
 # =============================================================================
 
 #############################################
+# Folder: C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Phong
+
+build src/Assignments/Phong/all: phony src/Assignments/Phong/Phong.exe
+
+# =============================================================================
+
+#############################################
 # Folder: C:/Users/kamil/3DStudia/cmake-build-debug/src/Assignments/Pyramid
 
 build src/Assignments/Pyramid/all: phony src/Assignments/Pyramid/Pyramid.exe
@@ -2932,14 +3056,14 @@ build src/XeEngine/all: phony src/XeEngine/libxe-engine.a
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckLibraryExists.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/ExternalProject.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindOpenGL.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindThreads.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/kamil/3DStudia/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Application/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/CameraMovement/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Colors/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/House/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Indices/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/MeshesMaterials/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/PVM/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Pyramid/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Resizing/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Textures/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Triangle/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Uniforms/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Zoom/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Engine/CMakeLists.txt C$:/Users/kamil/3DStudia/src/ObjectReader/CMakeLists.txt C$:/Users/kamil/3DStudia/src/XeEngine/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake _deps/glfw-src/CMakeLists.txt _deps/glfw-src/CMake/cmake_uninstall.cmake.in _deps/glfw-src/CMake/glfw3.pc.in _deps/glfw-src/CMake/glfw3Config.cmake.in _deps/glfw-src/src/CMakeLists.txt _deps/glm-src/CMakeLists.txt _deps/glm-src/glm/CMakeLists.txt _deps/spdlog-src/CMakeLists.txt _deps/spdlog-src/cmake/ide.cmake _deps/spdlog-src/cmake/utils.cmake
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckLibraryExists.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/ExternalProject.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindOpenGL.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindThreads.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/kamil/3DStudia/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Application/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/CameraMovement/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Colors/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/House/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Indices/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/MeshesMaterials/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/PVM/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Phong/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Pyramid/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Resizing/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Textures/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Triangle/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Uniforms/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Zoom/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Engine/CMakeLists.txt C$:/Users/kamil/3DStudia/src/ObjectReader/CMakeLists.txt C$:/Users/kamil/3DStudia/src/XeEngine/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake _deps/glfw-src/CMakeLists.txt _deps/glfw-src/CMake/cmake_uninstall.cmake.in _deps/glfw-src/CMake/glfw3.pc.in _deps/glfw-src/CMake/glfw3Config.cmake.in _deps/glfw-src/src/CMakeLists.txt _deps/glm-src/CMakeLists.txt _deps/glm-src/glm/CMakeLists.txt _deps/spdlog-src/CMakeLists.txt _deps/spdlog-src/cmake/ide.cmake _deps/spdlog-src/cmake/utils.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckLibraryExists.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/ExternalProject.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindOpenGL.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindThreads.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/kamil/3DStudia/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Application/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/CameraMovement/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Colors/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/House/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Indices/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/MeshesMaterials/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/PVM/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Pyramid/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Resizing/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Textures/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Triangle/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Uniforms/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Zoom/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Engine/CMakeLists.txt C$:/Users/kamil/3DStudia/src/ObjectReader/CMakeLists.txt C$:/Users/kamil/3DStudia/src/XeEngine/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake _deps/glfw-src/CMakeLists.txt _deps/glfw-src/CMake/cmake_uninstall.cmake.in _deps/glfw-src/CMake/glfw3.pc.in _deps/glfw-src/CMake/glfw3Config.cmake.in _deps/glfw-src/src/CMakeLists.txt _deps/glm-src/CMakeLists.txt _deps/glm-src/glm/CMakeLists.txt _deps/spdlog-src/CMakeLists.txt _deps/spdlog-src/cmake/ide.cmake _deps/spdlog-src/cmake/utils.cmake: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckLibraryExists.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/ExternalProject.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindGit.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindOpenGL.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/FindThreads.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2023.2.2/bin/cmake/win/x64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/kamil/3DStudia/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Application/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/CameraMovement/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Colors/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/House/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Indices/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/MeshesMaterials/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/PVM/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Phong/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Pyramid/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Resizing/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Textures/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Triangle/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Uniforms/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Assignments/Zoom/CMakeLists.txt C$:/Users/kamil/3DStudia/src/Engine/CMakeLists.txt C$:/Users/kamil/3DStudia/src/ObjectReader/CMakeLists.txt C$:/Users/kamil/3DStudia/src/XeEngine/CMakeLists.txt CMakeCache.txt CMakeFiles/3.26.4/CMakeCCompiler.cmake CMakeFiles/3.26.4/CMakeCXXCompiler.cmake CMakeFiles/3.26.4/CMakeRCCompiler.cmake CMakeFiles/3.26.4/CMakeSystem.cmake _deps/glfw-src/CMakeLists.txt _deps/glfw-src/CMake/cmake_uninstall.cmake.in _deps/glfw-src/CMake/glfw3.pc.in _deps/glfw-src/CMake/glfw3Config.cmake.in _deps/glfw-src/src/CMakeLists.txt _deps/glm-src/CMakeLists.txt _deps/glm-src/glm/CMakeLists.txt _deps/spdlog-src/CMakeLists.txt _deps/spdlog-src/cmake/ide.cmake _deps/spdlog-src/cmake/utils.cmake: phony
 
 
 #############################################

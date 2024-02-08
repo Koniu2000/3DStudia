@@ -11,6 +11,7 @@
 
 #include "spdlog/spdlog.h"
 #include "spdlog/sinks/stdout_sinks.h"
+#define GLM_ENABLE_EXPERIMENTAL
 #include "glm/gtx/string_cast.hpp"
 #include "glm/gtc/type_ptr.hpp"
 
@@ -18,12 +19,8 @@
 #include "Engine/Material.h"
 #include "Engine/PhongMaterial.h"
 #include "Engine/Mesh.h"
+#include "texture.cpp"
 
-
-namespace {
-    xe::ColorMaterial *make_color_material(const xe::mtl_material_t &mat, std::string mtl_dir);
-    xe::PhongMaterial *make_phong_material(const xe::mtl_material_t &mat, std::string mtl_dir);
-}
 
 namespace {
     xe::ColorMaterial *make_color_material(const xe::mtl_material_t &mat, std::string mtl_dir);
@@ -50,9 +47,10 @@ namespace xe {
             if (t)
                 n_floats_per_vertex += 2;
         }
-        if (smesh.has_normals)
+        if (smesh.has_normals) {
             n_floats_per_vertex += 3;
-        if (smesh.has_normals)
+        }
+        if (smesh.has_tangents)
             n_floats_per_vertex += 4;
 
 
@@ -93,6 +91,10 @@ namespace xe {
         }
         if (smesh.has_normals) {
             mesh->vertex_attrib_pointer(xe::sMesh::MAX_TEXCOORDS + 1, 3, GL_FLOAT, stride, offset);
+            auto v_offset = offset;
+            for (auto i = 0; i < smesh.vertex_normals.size(); i++, v_offset += stride) {
+                std::memcpy(v_ptr + v_offset, glm::value_ptr(smesh.vertex_normals[i]), sizeof(glm::vec3));
+            }
             offset += 3 * sizeof(GLfloat);
         }
 
@@ -153,11 +155,17 @@ namespace {
     xe::PhongMaterial *make_phong_material(const xe::mtl_material_t &mat, std::string mtl_dir) {
 
         glm::vec4 color;
-        for (int i = 0; i < 3; i++)
+        glm::vec4 spec;
+        glm::vec4 amb;
+        float specShi = mat.shininess;
+        for (int i = 0; i < 3; i++){
             color[i] = mat.diffuse[i];
+            spec[i] = mat.specular[i];
+            amb[i] = mat.ambient[i];
+        }
         color[3] = 1.0;
         spdlog::debug("Adding ColorMaterial {}", glm::to_string(color));
-        auto material = new xe::PhongMaterial(color);
+        auto material = new xe::PhongMaterial(color, amb, spec, specShi);
         if (!mat.diffuse_texname.empty()) {
             auto texture = xe::create_texture(mtl_dir + "/" + mat.diffuse_texname);
             spdlog::debug("Adding Texture {} {:1d}", mat.diffuse_texname, texture);
@@ -168,5 +176,4 @@ namespace {
 
         return material;
     }
-
 }

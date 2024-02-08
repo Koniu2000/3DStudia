@@ -41,10 +41,6 @@ namespace xe {
         GLboolean use_map_Kd_;
         GLuint map_Kd_unit_;
     };
-
-
-    GLuint create_texture(const std::string &name);
-
 }
 
 
