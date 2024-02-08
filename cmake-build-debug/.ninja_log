@@ -89,3 +89,6 @@
 38	5790	7291361678286919	src/Engine/CMakeFiles/engine.dir/mesh_loader.cpp.obj	6cf0be526ad5c56c
 5790	6588	7291361686345840	src/Engine/libengine.a	e876281bed86d4f2
 6589	28492	7291361905203973	src/Assignments/Phong/Phong.exe	a2479497d2f2ae85
+8	2028	7291375703753740	src/Engine/CMakeFiles/engine.dir/PhongMaterial.cpp.obj	9bf086ae3a6d959d
+2028	2894	7291375712416248	src/Engine/libengine.a	e876281bed86d4f2
+2895	26596	7291375949245490	src/Assignments/Phong/Phong.exe	a2479497d2f2ae85

@@ -45,7 +45,7 @@ namespace xe {
         glGenBuffers(1, &color_uniform_buffer_);
 
         glBindBuffer(GL_UNIFORM_BUFFER, color_uniform_buffer_);
-        glBufferData(GL_UNIFORM_BUFFER, 3 * sizeof(glm::vec3) + sizeof(float), nullptr, GL_STATIC_DRAW);
+        glBufferData(GL_UNIFORM_BUFFER, 3 * sizeof(glm::vec4) + sizeof(float) + sizeof(int), nullptr, GL_STATIC_DRAW);
         glBindBuffer(GL_UNIFORM_BUFFER, 0u);
 
 #if __APPLE__
